@@ -1,2 +1,2 @@
 # MovieReact
-Creating Movie App with React JS.
+Creating Movie App with React.
